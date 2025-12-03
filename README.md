@@ -18,11 +18,11 @@ soft lights ✨, and tricky puzzles to unwrap every day 🎁.
 
 #### Each day has its own dedicated folder, containing the puzzle input and the solution file:
 
-day01/
+    day01/
 
        ├── day01.py
        └── input.txt
-day02/
+    day02/
 
        ├── day02.py
        └── input.txt
