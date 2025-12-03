@@ -1,12 +1,12 @@
 # 🎄 Advent of Code 2025 — Python Solutions 🎁
 
-                                         ★ ☆     *         ☆
-                                     ☆        *       ★
-                                          ADVENT OF CODE 2025
-                                      ╔══════════════════════════╗
-                                      ║     Python Solutions     ║
-                                      ╚══════════════════════════╝
-                                    *         ☆        *       ★
+                                                           ★ ☆     *         ☆
+                                                       ☆        *       ★
+                                                            ADVENT OF CODE 2025
+                                                        ╔══════════════════════════╗
+                                                        ║     Python Solutions     ║
+                                                        ╚══════════════════════════╝
+                                                      *         ☆        *       ★
 
 
 #### Welcome to my Advent of Code 2025 solutions, written in clean and modern Python!
