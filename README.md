@@ -1,2 +1,32 @@
-# Advent-of-code-2025-Python
-🎄 Advent of Code 2025 - Rozwiązania w Pythonie 🐍  To repozytorium zawiera moje osobiste rozwiązania dla wyzwań programistycznych Advent of Code 2025.  Każde zadanie (Dzień) jest zaimplementowane w Pythonie, z naciskiem na czytelność, wydajność i poprawne rozwiązanie obu części łamigłówki (Part 1 i Part 2).
+🎄 Advent of Code 2025 — Python Solutions 🎁
+                                     ★ ☆     *         ☆
+                                 ☆        *       ★
+                                      ADVENT OF CODE 2025
+                                  ╔══════════════════════════╗
+                                  ║     Python Solutions     ║
+                                  ╚══════════════════════════╝
+                                *         ☆        *       ★
+
+Welcome to my Advent of Code 2025 solutions, written in clean and modern Python!
+This repository is meant to capture the cozy feeling of winter coding nights: warm tea ☕,
+soft lights ✨, and tricky puzzles to unwrap every day 🎁.
+Each day has its own dedicated folder, containing the puzzle input and the solution file:
+day01/
+   ├── day01.py
+   └── input.txt
+
+day02/
+   ├── day02.py
+   └── input.txt
+
+...
+Each script automatically loads input.txt from the current working directory, so you must run the file from inside the appropriate day folder.
+▶️ Running a Solution
+Navigate to the puzzle folder:
+cd day01
+Run the solution:
+python day01.py
+🎉 Results will be printed to the console.
+❗ Important:
+You must run the script inside its folder because it expects:
+input.txt
