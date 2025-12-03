@@ -26,7 +26,7 @@ soft lights ✨, and tricky puzzles to unwrap every day 🎁.
 
        ├── day02.py
        └── input.txt
-...
+    ...
 
 
 #### Each script automatically loads input.txt from the current working directory, so you must run the file from inside the appropriate day folder.
