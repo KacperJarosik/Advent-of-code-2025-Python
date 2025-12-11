@@ -104,8 +104,8 @@ if __name__ == "__main__":
     # Solve Part 1
     result1 = part1(part1_data)
     print("--- Part 1: ---")
-    print(f"The largest area of any rectangle you can make: {result1}")
+    print(f"The fewest button presses required to correctly configure the indicator lights on all of the machines: {result1}")
     # Solve Part 2
     result2 = part2(part2_data)
     print("\n--- Part 2: ---")
-    print(f"The largest area of any rectangle you can make using only red and green tiles: {result2}")
+    print(f"The fewest button presses required to correctly configure the joltage level counters on all of the machines: {result2}")
